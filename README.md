@@ -8,7 +8,7 @@ Membres :
 
 Spécificité du materiel :
 
-###Processeur
+### Processeur
 Nombre de processeurs	
 1 x
 Famille de processeur	
@@ -20,7 +20,7 @@ Vitesse d'horloge du processeur
 Nombre de cœurs de processeuri	
 4
 
-###Mémoire vive
+### Mémoire vive
 Mémoire vive totale	
 8 Go
 Type de mémoire vive	
